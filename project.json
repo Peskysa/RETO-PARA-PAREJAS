@@ -1,0 +1,21 @@
+{
+  "slug": "RETO-PARA-PAREJAS",
+  "name": "Retos en pareja",
+  "description": "Propuestas compartidas con valoración individual y acuerdo voluntario.",
+  "type": "aplicacion",
+  "prefix": "RETO-PARA-PAREJAS",
+  "version": "2.0.0",
+  "author": "Marco Pescador",
+  "license": "AGPL-3.0-only",
+  "licenseScope": "Código y gráficos originales de la modernización; consultar NOTICE y THIRD_PARTY.md para material anterior.",
+  "visibility": "public",
+  "web": "https://peskysa.github.io/RETO-PARA-PAREJAS/",
+  "modalities": [
+    "linux",
+    "windows",
+    "portable",
+    "web",
+    "android"
+  ],
+  "entry": "public/index.html"
+}
